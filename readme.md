@@ -1,0 +1,1 @@
+A starter template combining LangGraph and FastAPI for building AI agent workflows.  Provides a clean project structure, example routes, and workflow integration  to quickly bootstrap and scale LangGraph-based agent applications.
